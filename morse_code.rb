@@ -13,7 +13,7 @@ def get_word(arr)
   arr.split.each { |i| word += get_char(i) }
   word
 end
-puts get_word("-- -.--") #=> MY
+puts get_word('-- -.--') #=> MY
 
 def decode(str)
   sentese = ''
