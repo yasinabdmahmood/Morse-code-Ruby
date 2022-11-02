@@ -2,8 +2,9 @@
 
 # Project Name
 
-> Description the project.
+>  morse_code_message
 
+A Ruby program can help you to decode morse code
 
 ## Built With
 
@@ -40,17 +41,15 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **yasinabdmahmood**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
+- LinkedIn: [yaseen](https://www.linkedin.com/in/yaseen-abdalwahid/)
 
-👤 **Author2**
+👤**Elie Harfouche**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@X-Elie-X](https://github.com/X-Elie-X)
+- LinkedIn: [Elie Harfouche](https://www.linkedin.com/in/elie-m-harfouche/)
 
 ## 🤝 Contributing
 
