@@ -1,10 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# morse_code_message
 
->  morse_code_message
-
-A Ruby program can help you to decode morse code
+>  A Ruby program can help you to decode morse code
 
 ## Built With
 
