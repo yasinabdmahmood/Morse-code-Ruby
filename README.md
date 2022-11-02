@@ -1,39 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# morse_code_message
+# Morse Code
 
->  A Ruby program can help you to decode morse code
+> Morse code project is used to decode messages written using morse symbols.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Ruby
 
 
 
@@ -53,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/yasinabdmahmood/Morse-code-Ruby/issues).
 
 ## Show your support
 
