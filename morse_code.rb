@@ -21,5 +21,14 @@ def decode(str)
   arry.each { |i| sentese += "#{get_word(i)} " }
   sentese
 end
+
+def decode(string)
+  a = ''
+  string.split('  ').each do |alpha|
+    a += decode_word(alpha) + ' '
+  end
+  a
+end
+
 x = decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
 puts x
